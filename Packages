@@ -2,7 +2,7 @@ Package: com.mdmobashir.minicon
 Name: Minicon
 Version: 1.0~testing
 Architecture: iphoneos-arm
-Description: A modern and minimalist widget!
+Description: Fully crowdsourced and completely free glyphs
 Maintainer: MojoXD <mrs.mojo@mojorepo.fun>
 Author: Mobashir
 Section: Themes
