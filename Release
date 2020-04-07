@@ -1,0 +1,9 @@
+Origin: Mojo's Minicon Repo
+Label: Mojo's Minicon Repo
+Suite: stable
+Version: 1.0
+Codename: stable
+Architectures: iphoneos-arm
+Components: main
+Description: Mojo's Fork Of The Minicon Repo
+ 

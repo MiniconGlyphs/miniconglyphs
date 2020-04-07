@@ -4,6 +4,6 @@ Version: 1.0~testing
 Architecture: iphoneos-arm
 Description: A theme with simple icons!
 Author: Mobashir
-Maintainer: Mobashir
+Maintainer: MojoXD
 Section: Themes
 Depends: com.anemonetheming.anemone | com.spark.snowboard
