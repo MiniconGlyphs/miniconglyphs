@@ -1,0 +1,121 @@
+/* Minicon Depictions */
+
+html {
+background: linear-gradient(334deg, #a085e4, #e65fdb, #5fe6e1, #f38f8f);
+background-size: 1000% 1000%;
+height: 200%;
+width: 200%;
+-webkit-animation: AnimationName 10s ease infinite;
+-moz-animation: AnimationName 10s ease infinite;
+animation: AnimationName 10s ease infinite;
+overflow-x: hidden;
+}
+
+body {
+  background:none !important;
+}
+
+/* Text Styles */
+
+p {
+  color: white;
+  font-family: upgrade, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1, h2, h3 {
+  color: white;
+}
+
+#mainHeader {
+ position: relative;
+ left: 25%;
+ -webkit-transform: translateX(-50%);
+ transform: translateX(-50%);
+ text-align: center;
+ font-family: oskar-inline,sans-serif;
+ font-weight: 400;
+ font-style: normal;
+ font-size: 24vw;
+ top: 12vh;
+}
+
+#mainSubber {
+  position: relative;
+  left: 25%;
+  -webkit-transform: translateX(-50%);
+	transform: translateX(-50%);
+ text-align: center;
+ font-family: upgrade, sans-serif;
+ font-weight: 400;
+ font-style: normal;
+ font-size: 8vw;
+ top: 10vh;
+}
+
+#desc1 {
+  position: relative;
+  left: 25%;
+  -webkit-transform: translateX(-50%);
+	transform: translateX(-50%);
+  top: 18vh;
+  width: 46%;
+  text-align: center;
+  font-size: 4.5vw;
+  font-family: upgrade, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#screenshotHead {
+  margin-top: 3.4em;
+  font-size: 7vw;
+  
+}
+
+#scHolder{
+  position: absolute;
+}
+
+#scAnim {
+ position: relative;
+ left: 50%;
+ -webkit-transform: translateX(-50%);
+ transform: translateX(-50%);
+}
+
+#versionHolder {
+  position: relative;
+  top: 65vh;
+}
+
+#updateList {
+  color: white;
+}
+
+@media (max-height: 600px) {
+  #versionHolder {
+  position: relative;
+  top: 85vh;
+  }
+
+}
+/* Animating BG */ 
+
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:24% 0%}
+    50%{background-position:77% 100%}
+    100%{background-position:24% 0%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:24% 0%}
+    50%{background-position:77% 100%}
+    100%{background-position:24% 0%}
+}
+@keyframes AnimationName {
+    0%{background-position:24% 0%}
+    50%{background-position:77% 100%}
+    100%{background-position:24% 0%}
+}
