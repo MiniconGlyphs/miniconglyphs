@@ -12,7 +12,7 @@ overflow-x: hidden;
 }
 
 body {
-  background:none !important;
+
 }
 
 /* Text Styles */
@@ -26,6 +26,7 @@ p {
 
 h1, h2, h3 {
   color: white;
+
 }
 
 #mainHeader {
@@ -71,7 +72,7 @@ h1, h2, h3 {
 #screenshotHead {
   margin-top: 3.4em;
   font-size: 7vw;
-  
+
 }
 
 #scHolder{
@@ -101,7 +102,7 @@ h1, h2, h3 {
   }
 
 }
-/* Animating BG */ 
+/* Animating BG */
 
 
 @-webkit-keyframes AnimationName {
