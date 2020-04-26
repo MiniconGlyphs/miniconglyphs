@@ -1,18 +1,18 @@
 /* Minicon Depictions */
 
 html {
-background: linear-gradient(334deg, #a085e4, #e65fdb, #5fe6e1, #f38f8f);
-background-size: 1000% 1000%;
-height: 250%;
-width: 100%;
--webkit-animation: AnimationName 10s ease infinite;
--moz-animation: AnimationName 10s ease infinite;
-animation: AnimationName 10s ease infinite;
+
+
 overflow-x: hidden;
 }
 
 body {
-
+  background: linear-gradient(334deg, #a085e4, #e65fdb, #5fe6e1, #f38f8f);
+  background-repeat: none;
+  background-size: 1000% 1000%;
+  -webkit-animation: AnimationName 12s ease infinite;
+  -moz-animation: AnimationName 12s ease infinite;
+  animation: AnimationName 12s ease infinite;
 }
 
 /* Text Styles */
@@ -61,7 +61,7 @@ h1, h2, h3 {
   -webkit-transform: translateX(-50%);
 	transform: translateX(-50%);
   top: 18vh;
-  width: 67%;
+  width: 65%;
   text-align: center;
   font-size: 4.5vw;
   font-family: upgrade, sans-serif;
@@ -107,16 +107,16 @@ h1, h2, h3 {
 
 @-webkit-keyframes AnimationName {
     0%{background-position:24% 0%}
-    50%{background-position:77% 100%}
+    50%{background-position:77% 50%}
     100%{background-position:24% 0%}
 }
 @-moz-keyframes AnimationName {
     0%{background-position:24% 0%}
-    50%{background-position:77% 100%}
+    50%{background-position:77% 50%}
     100%{background-position:24% 0%}
 }
 @keyframes AnimationName {
     0%{background-position:24% 0%}
-    50%{background-position:77% 100%}
+    50%{background-position:77% 50%}
     100%{background-position:24% 0%}
 }
