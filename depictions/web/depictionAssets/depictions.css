@@ -94,6 +94,11 @@ h1, h2, h3 {
 
 #updateList {
   color: white;
+
+}
+
+#spacer1 {
+  margin: 3em;
 }
 
 @media (max-height: 600px) {
