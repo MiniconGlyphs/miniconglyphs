@@ -3,8 +3,8 @@
 html {
 background: linear-gradient(334deg, #a085e4, #e65fdb, #5fe6e1, #f38f8f);
 background-size: 1000% 1000%;
-height: 200%;
-width: 200%;
+height: 250%;
+width: 100%;
 -webkit-animation: AnimationName 10s ease infinite;
 -moz-animation: AnimationName 10s ease infinite;
 animation: AnimationName 10s ease infinite;
@@ -31,7 +31,7 @@ h1, h2, h3 {
 
 #mainHeader {
  position: relative;
- left: 25%;
+ left: 50%;
  -webkit-transform: translateX(-50%);
  transform: translateX(-50%);
  text-align: center;
@@ -44,7 +44,7 @@ h1, h2, h3 {
 
 #mainSubber {
   position: relative;
-  left: 25%;
+  left: 50%;
   -webkit-transform: translateX(-50%);
 	transform: translateX(-50%);
  text-align: center;
@@ -57,11 +57,11 @@ h1, h2, h3 {
 
 #desc1 {
   position: relative;
-  left: 25%;
+  left: 50%;
   -webkit-transform: translateX(-50%);
 	transform: translateX(-50%);
   top: 18vh;
-  width: 46%;
+  width: 67%;
   text-align: center;
   font-size: 4.5vw;
   font-family: upgrade, sans-serif;
