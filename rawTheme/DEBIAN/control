@@ -2,13 +2,8 @@ Package: xyz.miniconteam.miniconbeta
 Name: MiniconBETA
 Version: ~Beta1
 Architecture: iphoneos-arm
-Description: The BETA for Minicon, a crowdsourced glyph theme.
-Maintainer: MojoXD <mrs.mojo@mojorepo.fun>
+Description: The BETA for Minicon, a crowdsourced glyph theme
 Author: The Minicon Team
+Maintainer: MojoXD <mrs.mojo@mojorepo.fun>
 Section: Themes
 Depends: com.anemonetheming.anemone | com.spark.snowboard
-Filename:
-Size:
-MD5sum:
-SHA1:
-SHA256:

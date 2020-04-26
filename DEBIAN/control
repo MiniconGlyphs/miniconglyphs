@@ -1,9 +1,0 @@
-Package: com.mdmobashir.minicon
-Name: Minicon
-Version: 1.0
-Architecture: iphoneos-arm
-Description: A theme with simple icons!
-Author: Mobashir
-Maintainer: Mobashir
-Section: Themes
-Depends: com.anemonetheming.anemone | com.spark.snowboard
