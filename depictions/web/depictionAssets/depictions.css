@@ -1,7 +1,8 @@
 /* Minicon Depictions */
 
 html {
-
+ width: auto;
+ height: auto;
 
 overflow-x: hidden;
 }
