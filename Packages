@@ -1,0 +1,14 @@
+Package: xyz.miniconteam.miniconbeta
+Name: Minicon
+Version: ~Beta1
+Architecture: iphoneos-arm
+Description: Fully crowdsourced and completely free glyphs
+Maintainer: MojoXD <mrs.mojo@mojorepo.fun>
+Author: The Minicon Team
+Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: debs/Minicon.deb
+Size: 
+MD5sum:
+SHA1:
+SHA256:
