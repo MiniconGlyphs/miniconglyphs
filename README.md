@@ -1,4 +1,5 @@
 # Minicon
 **Minimal glyph icon set**
 
-Fully crowdsourced and completely free glyphs
+Forked from MiniconGlyphs/miniconglyphs
+This repo is used for pusing new icons 
