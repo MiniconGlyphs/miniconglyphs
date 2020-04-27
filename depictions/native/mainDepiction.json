@@ -8,7 +8,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## TWEAK_NAME\nSHORT_DESCRIPTION"
+					"markdown": "## Minicon\nThis is Minicon, a modern, fully opensourced glyph theme."
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -19,32 +19,27 @@
 				},
 				{
 					"title": "Version",
-					"text": "VERSION_NUMBER",
+					"text": "~Beta1",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Released",
-					"text": "RELEASE_DATE",
+					"text": "4/30/2020",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Price",
-					"text": "PRICE",
+					"text": "Free",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Developer",
-					"text": "DEVELOPER_NAME",
+					"text": "The Minicon Team",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Website",
-					"action": "WEBSITE_HERE",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"title": "Use This Template",
-					"action": "https://github.com/sukarodo/Sidia",
+					"action": "https://minicon.xyz/",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -62,18 +57,18 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "VERSION_NUMBER",
+					"title": "~Beta1",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 UPDATE_DESCRIPTION",
+					"markdown": "\t\n\u2022 Initial Release",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released RELEASE_DATE</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 4/30/2020</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
