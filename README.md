@@ -1,4 +1,4 @@
-# Minicon
+# Ozymandis500/Minicon
 **Minimal glyph icon set**
 
 Forked from MiniconGlyphs/miniconglyphs
