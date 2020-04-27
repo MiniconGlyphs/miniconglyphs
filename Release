@@ -1,0 +1,8 @@
+Origin: Minicon Beta Repo
+Label: Minicon Beta Repo
+Suite: stable
+Version: 0.1
+Codename: stable
+Architectures: iphoneos-arm
+Components: main
+Description: The BETA repo for Minicon, an open sourced glyph theme
