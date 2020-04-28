@@ -51,6 +51,11 @@
 					"class": "DepictionTableButtonView"
 				},
 				{
+					"title": "Mockup Provider, CC BY 4.0, With Modifications",
+					"action": "https://cssauthor.com/",
+					"class": "DepictionTableButtonView"
+				},
+				{
 					"spacing": 16,
 					"class": "DepictionSpacerView"
 				},
