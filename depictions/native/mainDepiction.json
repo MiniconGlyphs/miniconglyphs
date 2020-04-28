@@ -1,6 +1,6 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://raw.githubusercontent.com/sukarodo/Sidia/master/assets/Banners/RepoHeader.png",
+	"headerImage": "https://minicon.xyz/depictions/native/screenshots/RepoBanner.png",
 	"tintColor": "#ffae8e",
 	"tabs": [
 		{
@@ -18,7 +18,7 @@
 					"itemCornerRadius":8,
 					"itemSize":"{127, 275}",
 					"screenshots":[
-						{"accessibilityText":"Screenshot","url":"https://repo.packix.com/api/Packages/5e810c56cfc8a6003d94259e/screenshots/5e810d6ecfc8a6003d9425ce/download?size=medium","fullSizeURL":"https://repo.packix.com/api/Packages/5e810c56cfc8a6003d94259e/screenshots/5e810d6ecfc8a6003d9425ce/download?size=full"}
+						{"accessibilityText":"Screenshot","url":"https://minicon.xyz/depictions/native/screenshots/Placeholder.png"}
 						]
 				},
 				{
