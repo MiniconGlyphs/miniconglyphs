@@ -19,12 +19,10 @@
 					"itemCornerRadius":8,
 					"itemSize":"{127, 275}",
 					"screenshots":[
-						{"accessibilityText":"Screenshot","url":"https://repo.packix.com/api/Packages/5e810c56cfc8a6003d94259e/screenshots/5e810d6ecfc8a6003d9425ce/download?size=medium","fullSizeURL":"https://repo.packix.com/api/Packages/5e810c56cfc8a6003d94259e/screenshots/5e810d6ecfc8a6003d9425ce/download?size=full"},
-						{"accessibilityText":"Screenshot","url":"https://repo.packix.com/api/Packages/5e810c56cfc8a6003d94259e/screenshots/5e810d9ac7bd97001a262881/download?size=medium","fullSizeURL":"https://repo.packix.com/api/Packages/5e810c56cfc8a6003d94259e/screenshots/5e810d9ac7bd97001a262881/download?size=full"},
-						{"accessibilityText":"Screenshot","url":"https://repo.packix.com/api/Packages/5e810c56cfc8a6003d94259e/screenshots/5e810dc4126502003da3fc6e/download?size=medium","fullSizeURL":"https://repo.packix.com/api/Packages/5e810c56cfc8a6003d94259e/screenshots/5e810dc4126502003da3fc6e/download?size=full"},
-						{"accessibilityText":"Screenshot","url":"https://repo.packix.com/api/Packages/5e810c56cfc8a6003d94259e/screenshots/5e810dfa07c1d5003843326a/download?size=medium","fullSizeURL":"https://repo.packix.com/api/Packages/5e810c56cfc8a6003d94259e/screenshots/5e810dfa07c1d5003843326a/download?size=full"},
-						{"accessibilityText":"Screenshot","url":"https://repo.packix.com/api/Packages/5e810c56cfc8a6003d94259e/screenshots/5e810e303dde3e0038fe789c/download?size=medium","fullSizeURL":"https://repo.packix.com/api/Packages/5e810c56cfc8a6003d94259e/screenshots/5e810e303dde3e0038fe789c/download?size=full"},
-						{"accessibilityText":"Screenshot","url":"https://repo.packix.com/api/Packages/5e810c56cfc8a6003d94259e/screenshots/5e810e5ef67ae40029d1a80f/download?size=medium","fullSizeURL":"https://repo.packix.com/api/Packages/5e810c56cfc8a6003d94259e/screenshots/5e810e5ef67ae40029d1a80f/download?size=full"}]}
+						{"accessibilityText":"Screenshot","url":"https://repo.packix.com/api/Packages/5e810c56cfc8a6003d94259e/screenshots/5e810d6ecfc8a6003d9425ce/download?size=medium","fullSizeURL":"https://repo.packix.com/api/Packages/5e810c56cfc8a6003d94259e/screenshots/5e810d6ecfc8a6003d9425ce/download?size=full"}
+						]
+
+				}
 
 				{
 					"title": "Latest Version",
