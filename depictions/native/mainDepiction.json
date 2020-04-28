@@ -1,0 +1,93 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://raw.githubusercontent.com/MiniconGlyphs/miniconglyphs/master/depictions/native/screenshots/RepoBanner.png",
+	"tintColor": "#ffae8e",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Minicon\nThis is Minicon, a modern, fully opensourced glyph theme."
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionScreenshotsView",
+					"itemCornerRadius":8,
+					"itemSize":"{127, 275}",
+					"screenshots":[
+						{"accessibilityText":"Screenshot","url":"https://minicon.xyz/depictions/native/screenshots/Placeholder.png"}
+						]
+				},
+				{
+					"title": "Latest Version",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "~Beta1",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Released",
+					"text": "4/30/2020",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "Free",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "The Minicon Team",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Website",
+					"action": "https://minicon.xyz/",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Mockup Provider, CC BY 4.0, With Modifications",
+					"action": "https://cssauthor.com/",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "~Beta1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Initial Release",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 4/30/2020</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}
