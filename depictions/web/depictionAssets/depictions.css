@@ -1,8 +1,7 @@
 /* Minicon Depictions */
 
 html {
- width: auto;
- height: auto;
+
 
 overflow-x: hidden;
 }
@@ -30,6 +29,32 @@ h1, h2, h3 {
 
 }
 
+a {
+  font-family: upgrade, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  transition: all .3s;
+}
+
+a:link {
+  color: white;
+  font-family: upgrade, sans-serif;
+	font-weight: 400;
+}
+
+a:visited {
+  color: rgb(224, 224, 224);
+}
+
+a:hover {
+  /* background-size: 4px 50px; */
+  color: rgb(156, 156, 156);
+}
+
+a:active {
+  color: rgb(59, 59, 59);
+}
+
 #mainHeader {
  position: relative;
  left: 50%;
@@ -40,7 +65,7 @@ h1, h2, h3 {
  font-weight: 400;
  font-style: normal;
  font-size: 24vw;
- top: 6vh;
+ margin-top: 6vh;
 }
 
 #mainSubber {
@@ -53,7 +78,7 @@ h1, h2, h3 {
  font-weight: 400;
  font-style: normal;
  font-size: 8vw;
- top: 8vh;
+ margin-top: 8vh;
 }
 
 #desc1 {
@@ -61,7 +86,7 @@ h1, h2, h3 {
   left: 50%;
   -webkit-transform: translateX(-50%);
 	transform: translateX(-50%);
-  top: 18vh;
+  margin-top: 5em;
   width: 65%;
   text-align: center;
   font-size: 4.5vw;
@@ -77,7 +102,7 @@ h1, h2, h3 {
 }
 
 #scHolder{
-  position: absolute;
+  position: relative;
 }
 
 #scAnim {
@@ -88,13 +113,23 @@ h1, h2, h3 {
 }
 
 #versionHolder {
-  position: absolute;
-  top: 65vh;
+  position: relative;
+
 }
 
 #updateList {
   color: white;
 
+}
+
+#contributeHolder {
+  margin-top: 2em;
+
+}
+
+#contribute1 {
+  font-weight: bold;
+  text-decoration: underline;
 }
 
 #spacer1 {
