@@ -34,7 +34,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown" : "Minicon is a new take on theming. It's completely free, and completely open to any one who wants to contribute. \n Gone are the days of begging devs and designers for features and icons, simply create and open a pull request. Our core team will review your contributions, and we'll roll from there. \n You can **contribute** to Minicon on our [GitHub](https://github.com/MiniconGlyphs/miniconglyphs)",
+					"markdown" : "Minicon is a new take on theming. It's completely free, and completely open to any one who wants to contribute. \nGone are the days of begging devs and designers for features and icons, simply create and open a pull request. Our core team will review your contributions, and we'll roll from there. \n\n You can **contribute** to Minicon on our [GitHub](https://github.com/MiniconGlyphs/miniconglyphs)",
 					"tintColor" : "#908cfa"
 				},
 				{
