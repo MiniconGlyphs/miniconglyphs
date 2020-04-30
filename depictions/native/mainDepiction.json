@@ -16,7 +16,7 @@
 				{
 					"class": "DepictionScreenshotsView",
 					"itemCornerRadius":8,
-					"itemSize":"{327, 812}",
+					"itemSize":"{327, 512}",
 					"screenshots":[
 						{"accessibilityText":"Screenshot","url":"https://raw.githubusercontent.com/MiniconGlyphs/miniconglyphs/master/depictions/native/screenshots/1.png"},
 						{"accessibilityText":"Screenshot","url":"https://raw.githubusercontent.com/MiniconGlyphs/miniconglyphs/master/depictions/native/screenshots/2.png"},
