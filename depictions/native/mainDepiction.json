@@ -16,9 +16,11 @@
 				{
 					"class": "DepictionScreenshotsView",
 					"itemCornerRadius":8,
-					"itemSize":"{127, 275}",
+					"itemSize":"{327, 812}",
 					"screenshots":[
-						{"accessibilityText":"Screenshot","url":"https://minicon.xyz/depictions/native/screenshots/Placeholder.png"}
+						{"accessibilityText":"Screenshot","url":"https://raw.githubusercontent.com/MiniconGlyphs/miniconglyphs/master/depictions/native/screenshots/1.png"},
+						{"accessibilityText":"Screenshot","url":"https://raw.githubusercontent.com/MiniconGlyphs/miniconglyphs/master/depictions/native/screenshots/2.png"},
+						{"accessibilityText":"Screenshot","url":"https://raw.githubusercontent.com/MiniconGlyphs/miniconglyphs/master/depictions/native/screenshots/3.png"}
 						]
 				},
 				{
