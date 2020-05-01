@@ -1,25 +1,41 @@
 {
 	"minVersion": "0.1",
 	"headerImage": "https://raw.githubusercontent.com/MiniconGlyphs/miniconglyphs/master/depictions/native/screenshots/RepoBanner.png",
-	"tintColor": "#ffae8e",
+	"tintColor": "#fa8cad",
 	"tabs": [
 		{
 			"tabname": "Details",
 			"views": [
 				{
-					"class": "DepictionMarkdownView",
-					"markdown": "## Minicon\nThis is Minicon, a modern, fully opensourced glyph theme."
+					"class": "DepictionHeaderView",
+					"title": "Minicon",
+					"useBottomMargin" : true,
+					"useBoldText" : true
+				},
+				{
+					"class" : "DepictionSubheaderView",
+					"title" : "This is Minicon, a modern, fully opensourced glyph theme."
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
 					"class": "DepictionScreenshotsView",
-					"itemCornerRadius":8,
-					"itemSize":"{127, 275}",
+					"itemCornerRadius":18,
+					"itemSize":"{327, 512}",
 					"screenshots":[
-						{"accessibilityText":"Screenshot","url":"https://minicon.xyz/depictions/native/screenshots/Placeholder.png"}
+						{"accessibilityText":"Screenshot","url":"https://raw.githubusercontent.com/MiniconGlyphs/miniconglyphs/master/depictions/native/screenshots/1.png"},
+						{"accessibilityText":"Screenshot","url":"https://raw.githubusercontent.com/MiniconGlyphs/miniconglyphs/master/depictions/native/screenshots/2.png"},
+						{"accessibilityText":"Screenshot","url":"https://raw.githubusercontent.com/MiniconGlyphs/miniconglyphs/master/depictions/native/screenshots/3.png"}
 						]
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown" : "Minicon is a new take on theming. It's completely free, and completely open to any one who wants to contribute. \nGone are the days of begging devs and designers for features and icons, simply create and open a pull request. Our core team will review your contributions, and we'll roll from there. \n\n You can **contribute** to Minicon on our [GitHub](https://github.com/MiniconGlyphs/miniconglyphs)",
+					"tintColor" : "#908cfa"
 				},
 				{
 					"title": "Latest Version",
@@ -48,11 +64,6 @@
 				{
 					"title": "Website",
 					"action": "https://minicon.xyz/",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"title": "Mockup Provider, CC BY 4.0, With Modifications",
-					"action": "https://cssauthor.com/",
 					"class": "DepictionTableButtonView"
 				},
 				{
