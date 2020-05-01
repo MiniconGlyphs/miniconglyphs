@@ -4,7 +4,7 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://raw.githubusercontent.com/MiniconGlyphs/miniconglyphs/master/depictions/native/screenshots/RepoBanner.png",
+        "url": "https://raw.githubusercontent.com/MiniconGlyphs/miniconglyphs/master/depictions/native/screenshots/Header-black.png",
         "title": "Minicon Beta",
         "package": "xyz.miniconteam.miniconbeta",
         "hideShadow": false
