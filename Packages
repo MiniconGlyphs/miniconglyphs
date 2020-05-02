@@ -8,9 +8,9 @@ Author: The Minicon Team
 Section: Themes
 Depends: com.anemonetheming.anemone | com.spark.snowboard
 Filename: DEBS/Minicon.deb
-Size: 4355496
-MD5sum: 79354862369e23aee1d52e73fb5e79ca
-SHA1: 4940003bff6988ccb79acdc6b7086661115dfd15
-SHA256: 7d427a33f9ca1d1cb3598234906e2240c73fda81eb27f65557656f81b8aec262
+Size: 5799622
+MD5sum: 79354862369E23AEE1D52E73FB5E79CA
+SHA1: 4940003BFF6988CCB79ACDC6B7086661115DFD15
+SHA256: 7D427A33F9CA1D1CB3598234906E2240C73FDA81EB27F65557656F81B8AEC262
 Depiction: https://minicon.xyz/depictions/web/depiction.html
 SileoDepiction: https://minicon.xyz/depictions/native/mainDepiction.json
